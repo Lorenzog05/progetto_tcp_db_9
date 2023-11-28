@@ -1,4 +1,4 @@
-# Nome del Progetto
+# Gestionale
 
 Questo è un gestionale che permette di eseguire diverse azioni(creare,leggere,modificare,eliminare).
 Permette di stampare un report pdf durante la lettura.
