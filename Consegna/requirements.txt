@@ -1,0 +1,4 @@
+fpdf==1.7.2
+idna==3.4
+mysql-connector==2.2.9
+mysql-connector-python==8.1.0
