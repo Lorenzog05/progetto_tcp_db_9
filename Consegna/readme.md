@@ -13,7 +13,7 @@ Per installare il progetto, segui questi passaggi:
 4. se il server e il client sono su due macchine distinte imposta anche l'indirizzo ip corretto
 5. RICORDATI DI POPOLARE LE TABELLE DEL DATABASE PRIMA DI EFFETTUARE QUALSIASI AZIONE
 ## su windows
-windows utilizza il "\" per i percorsi
+windows utilizza il "\\" per i percorsi
 
 ## su linux
 linux utilizza "/" per i percorsi
