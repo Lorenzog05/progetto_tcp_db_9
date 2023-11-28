@@ -11,7 +11,7 @@ Per installare il progetto, segui questi passaggi:
 2. avvia il server su cui è installato il DB e importalo
 3. Ricordati di controllare i percorsi modificandoli in base al tuo SO
 4. se il server e il client sono su due macchine distinte imposta anche l'indirizzo ip corretto
-
+5. RICORDATI DI POPOLARE LE TABELLE DEL DATABASE PRIMA DI EFFETTUARE QUALSIASI AZIONE
 ## su windows
 windows utilizza il "\" per i percorsi
 
